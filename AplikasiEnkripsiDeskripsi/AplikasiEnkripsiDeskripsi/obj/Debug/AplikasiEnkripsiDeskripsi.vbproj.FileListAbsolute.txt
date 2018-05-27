@@ -1,0 +1,11 @@
+D:\Program VB\AplikasiEnkripsiDeskripsi\AplikasiEnkripsiDeskripsi\bin\Debug\AplikasiEnkripsiDeskripsi.exe.config
+D:\Program VB\AplikasiEnkripsiDeskripsi\AplikasiEnkripsiDeskripsi\bin\Debug\AplikasiEnkripsiDeskripsi.exe
+D:\Program VB\AplikasiEnkripsiDeskripsi\AplikasiEnkripsiDeskripsi\bin\Debug\AplikasiEnkripsiDeskripsi.pdb
+D:\Program VB\AplikasiEnkripsiDeskripsi\AplikasiEnkripsiDeskripsi\bin\Debug\AplikasiEnkripsiDeskripsi.xml
+D:\Program VB\AplikasiEnkripsiDeskripsi\AplikasiEnkripsiDeskripsi\obj\Debug\AplikasiEnkripsiDeskripsi.Form1.resources
+D:\Program VB\AplikasiEnkripsiDeskripsi\AplikasiEnkripsiDeskripsi\obj\Debug\AplikasiEnkripsiDeskripsi.Resources.resources
+D:\Program VB\AplikasiEnkripsiDeskripsi\AplikasiEnkripsiDeskripsi\obj\Debug\AplikasiEnkripsiDeskripsi.vbproj.GenerateResource.Cache
+D:\Program VB\AplikasiEnkripsiDeskripsi\AplikasiEnkripsiDeskripsi\obj\Debug\AplikasiEnkripsiDeskripsi.exe
+D:\Program VB\AplikasiEnkripsiDeskripsi\AplikasiEnkripsiDeskripsi\obj\Debug\AplikasiEnkripsiDeskripsi.xml
+D:\Program VB\AplikasiEnkripsiDeskripsi\AplikasiEnkripsiDeskripsi\obj\Debug\AplikasiEnkripsiDeskripsi.pdb
+D:\Program VB\AplikasiEnkripsiDeskripsi\AplikasiEnkripsiDeskripsi\obj\Debug\AplikasiEnkripsiDeskripsi.vbprojResolveAssemblyReference.cache
